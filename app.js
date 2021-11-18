@@ -17,3 +17,5 @@ for (let i = 0; i < indicatorImgs.length; i++) {
     slides[id].classList.add("active");
   });
 }
+
+// today is a new day; never give up
